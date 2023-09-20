@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
 #container::before{
 	content : "Before Element ";
-	color:red;
+	color:#f00;
 }
 #container::after{
 	content : " After Element ";
-	color:red;
+	color:#f00;
 }
 #container{
 	margin:20px;
